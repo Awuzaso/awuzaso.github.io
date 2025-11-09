@@ -27,9 +27,9 @@ author:
   name             : "Overview"
   pronouns         : "he/him" 
   bio              : "Short biography for the left-hand sidebar"
-  location         : ""
+  location         : "Dallas, Texas"
   employer         : "Currently on the job market for industry and academic positions."
-  uri              : # URL
+  uri              : "https://awuzaso.github.io"
   email            : "awuzaso@gmail.com" 
 
   # Academic websites
