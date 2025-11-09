@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "siteSelfie.jpg"
   name             : "Overview"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" 
   bio              : "Short biography for the left-hand sidebar"
   location         : ""
   employer         : "Currently on the job market for industry and academic positions."
