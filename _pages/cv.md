@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
+ <embed src="files/Osazuwa_Okundaye_Santos_CV_2025.pdf" type="application/pdf" width="100%" height="600px" />
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
