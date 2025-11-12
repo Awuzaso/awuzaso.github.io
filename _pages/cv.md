@@ -14,10 +14,12 @@ Content
 
 <!-- <embed src="/usr/src/app/files/Osazuwa_Okundaye_Santos_CV_2025.pdf" width="100%" height="600px"> -->
 
-<iframe src="files/Osazuwa_Okundaye_Santos_CV_2025.pdf" width="100%" height="600px">
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="files/Osazuwa_Okundaye_Santos_CV_2025.pdf">Download PDF</a>.
+<iframe 
+  src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Awuzaso/awuzaso.github.io/master/files/Osazuwa_Okundaye_Santos_CV_2025.pdf&embedded=true" 
+  style="width:100%; height:600px;" 
+  frameborder="0">
 </iframe>
+
 
 
 
