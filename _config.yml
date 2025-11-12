@@ -24,7 +24,7 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "siteSelfie.jpg"
-  name             : "Overview"
+  name             : #
   pronouns         : "he/him" 
   bio              : "Human–Computer Interaction, Computational Design, Cognitive Systems, and Engineering Education — examining how people think, make, and create with technology across work and learning contexts."
   location         : "Dallas, Texas"
