@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Content
-
 
 <!-- <embed src="/usr/src/app/files/Osazuwa_Okundaye_Santos_CV_2025.pdf" width="100%" height="600px"> -->
 
