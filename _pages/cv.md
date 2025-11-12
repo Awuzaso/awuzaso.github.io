@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Content
-<iframe src="files/Osazuwa_Okundaye_Santos_CV_2025.pdf" width="800" height="900" frameborder="0"></iframe>
+<iframe src="/usr/src/app/files/Osazuwa_Okundaye_Santos_CV_2025.pdf" width="800" height="900" frameborder="0"></iframe>
 
 
 
