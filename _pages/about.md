@@ -18,3 +18,38 @@ Third, I advance research in engineering education by designing making-based lea
 
 Finally, I analyze the implications of generative AI for creative practice—developing methods to both leverage multimodal models (e.g., text-to-image systems) in design workflows and critically assess how these systems reproduce or distort cultural, spatial, and socio-economic representations.
 
+<h1>Work Experience</h1>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="/assets/google_logo.png" alt="Meta Logo" style="height: 50px; margin-right: 15px;">
+    <div>
+      <strong>Google </strong>, Doctoral Researcher/SWE PhD Intern, 2022 Fall
+    </div>
+  </div>
+</div>
+
+
+<h1>Publications</h1>
+<!-- Publication card -->
+<div style="display: flex; margin-bottom: 30px;">
+  <img src="/assets/pub1.png" style="width: 180px; margin-right: 15px; border-radius: 4px;">
+  <div>
+    <strong>Title</strong><br>
+    A,B,C,D<br>
+    <em>Conference ‘Year</em><br>
+    <a href="paper1.pdf">PDF</a>
+  </div>
+</div>
+
+<!-- Publication card -->
+<div style="display: flex; margin-bottom: 30px;">
+  <img src="/assets/pub1.png" style="width: 180px; margin-right: 15px; border-radius: 4px;">
+  <div>
+    <strong>Title</strong><br>
+    A,B,C,D<br>
+    <em>Conference ‘Year</em><br>
+    <a href="paper1.pdf">PDF</a>
+  </div>
+</div>
+
