@@ -31,6 +31,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 
 <h1>Publications</h1>
+<h2>Journals</h2>
 <!-- Publication card -->
 <div style="display: flex; margin-bottom: 30px;">
   <img src="/assets/pub1.png" style="width: 180px; margin-right: 15px; border-radius: 4px;">
@@ -41,6 +42,21 @@ Finally, I analyze the implications of generative AI for creative practice—dev
     <a href="paper1.pdf">PDF</a>
   </div>
 </div>
+
+<h2>Conferences</h2>
+
+<!-- Publication card -->
+<div style="display: flex; margin-bottom: 30px;">
+  <img src="/assets/pub1.png" style="width: 180px; margin-right: 15px; border-radius: 4px;">
+  <div>
+    <strong>Title</strong><br>
+    A,B,C,D<br>
+    <em>Conference ‘Year</em><br>
+    <a href="paper1.pdf">PDF</a>
+  </div>
+</div>
+
+<h2>Poster Presentations</h2>
 
 <!-- Publication card -->
 <div style="display: flex; margin-bottom: 30px;">
