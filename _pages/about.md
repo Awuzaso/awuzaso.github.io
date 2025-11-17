@@ -24,8 +24,8 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 <style>
 
 .thumbnail {
-  width: 120px;      /* shared width */
-  height: 120px;     /* shared height */
+  width: 180px;      /* shared width */
+  height: 180px;     /* shared height */
   object-fit: contain;  /* auto-scale, no distortion */
 }
 
