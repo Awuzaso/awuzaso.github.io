@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am currently on the job market for both industry and academic positions. I always appreciate a chat about opportunities or chances to collaborate.<br><br>
+
 
 I am an interdisciplinary researcher whose work investigates how computational systems and human experience co-evolve through the lens of embodied interaction. My research examines how technologies are shaped by human perception and capability, and how, in turn, they can extend and transform human skill, reasoning, and creativity. Within this theoretical framework, I lead research programs that span four interrelated domains.<br><br>
 
