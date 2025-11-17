@@ -21,12 +21,11 @@ Second, I examine how digital information flows through and across physical medi
 Third, I advance research in engineering education by designing making-based learning environments and computational tools that scaffold conceptual understanding and productive engagement in STEM contexts.<br><br>
 
 Finally, I analyze the implications of generative AI for creative practice—developing methods to both leverage multimodal models (e.g., text-to-image systems) in design workflows and critically assess how these systems reproduce or distort cultural, spatial, and socio-economic representations.<br><br>
-
 <style>
 
 .thumbnail {
-  width: 180px;        /* Set a consistent width */
-  height: 180px;       /* Set a consistent height */
+  max-width: 120px;        /* Set a consistent width */
+ 
   object-fit: cover;   /* Ensures images fill the box without distorting */
   border-radius: 8px;  /* Optional: rounded corners */
   margin-right: 15px;
