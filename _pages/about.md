@@ -23,9 +23,49 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="/images/AI_Robotics_thumb.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <div>
+      <strong>Researcher, Human–AI Interaction </strong>, Robotics Research Group – Texas A&M University, 2023-2025
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="/images/HCIED_thumb.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <div>
+      <strong>Research Associate, 3D Printed Metamaterials for Sensing and Actuation </strong>, Human Computer Interaction and Engineering Design Group – Texas A&M University, 2023-2025
+    </div>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="/images/Google_Favicon_2025.svg.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
     <div>
-      <strong>Google (Android Nearby Team) </strong>, Doctoral Researcher/SWE PhD Intern, 2022 Fall
+      <strong>Doctoral Researcher/SWE PhD Intern </strong>, 
+      Google (Android Nearby Team)
+      , 2022 Fall
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="/images/TITIL_thumb.jpeg" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <div>
+      <strong>Doctoral Researcher </strong>, Texas A&M Institute of for Technology Infused Learning (Formerly TAMU Embodied Interaction Lab (TEILab)), 2017-2022 Fall
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="/images/TAMU_Viz_thumb.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <div>
+      <strong> Instructor of Record (Computer Animation and Modeling) </strong>, Department of Visualization - Texas A&M University , 2014 Fall, Spring 2017
     </div>
   </div>
 </div>
