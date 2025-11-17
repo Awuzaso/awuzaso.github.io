@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+.thumbnail {
+  width: 120px;        /* Set a consistent width */
+  height: 120px;       /* Set a consistent height */
+  object-fit: cover;   /* Ensures images fill the box without distorting */
+  border-radius: 8px;  /* Optional: rounded corners */
+  margin-right: 15px;
+}
+
+
 I am currently on the job market for both industry and academic positions. I always appreciate a chat about opportunities or chances to collaborate.<br><br>
 
 I am an interdisciplinary researcher whose work investigates how computational systems and human experience co-evolve through the lens of embodied interaction. My research examines how technologies are shaped by human perception and capability, and how, in turn, they can extend and transform human skill, reasoning, and creativity. Within this theoretical framework, I lead research programs that span four interrelated domains.<br><br>
@@ -23,7 +32,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/AI_Robotics_thumb.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <img src="/images/AI_Robotics_thumb.png" alt="AI and Robotics Lab" style="height: 120px; margin-right: 15px;" class="thumbnail" >
     <div>
       <strong>Researcher, Human–AI Interaction </strong>, Robotics Research Group – Texas A&M University, 2023-2025
     </div>
@@ -32,9 +41,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/HCIED_thumb.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <img src="/images/HCIED_thumb.png" alt="HCIED" style="height: 120px; margin-right: 15px;" class="thumbnail" >
     <div>
-      <strong>Research Associate, 3D Printed Metamaterials for Sensing and Actuation </strong>, Human Computer Interaction and Engineering Design Group – Texas A&M University, 2023-2025
+      <strong>Research Associate, 3D Printed Metamaterials for Sensing and Actuation </strong>, Human Computer Interaction and Engineering Design Group (HCIED) – Texas A&M University, 2023-2025
     </div>
   </div>
 </div>
@@ -43,7 +52,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/Google_Favicon_2025.svg.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <img src="/images/Google_Favicon_2025.svg.png" alt="Google Logo" style="height: 120px; margin-right: 15px;" class="thumbnail" >
     <div>
       <strong>Doctoral Researcher/SWE PhD Intern </strong>, 
       Google (Android Nearby Team)
@@ -54,7 +63,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/TITIL_thumb.jpeg" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <img src="/images/TITIL_thumb.jpeg" alt="TITIL" style="height: 120px; margin-right: 15px;" class="thumbnail" >
     <div>
       <strong>Doctoral Researcher </strong>, Texas A&M Institute of for Technology Infused Learning (Formerly TAMU Embodied Interaction Lab (TEILab)), 2017-2022 Fall
     </div>
@@ -63,7 +72,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/TAMU_Viz_thumb.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
+    <img src="/images/TAMU_Viz_thumb.png" alt="TAMU Visualization" style="height: 120px; margin-right: 15px;" class="thumbnail" >
     <div>
       <strong> Instructor of Record (Computer Animation and Modeling) </strong>, Department of Visualization - Texas A&M University , 2014 Fall, Spring 2017
     </div>
@@ -72,29 +81,3 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 
 
-<!-- <h2>Conferences</h2> -->
-
-<!-- Publication card -->
-<!-- <div style="display: flex; margin-bottom: 30px;">
-  <img src="/assets/pub1.png" style="width: 180px; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong>Title</strong><br>
-    A,B,C,D<br>
-    <em>Conference ‘Year</em><br>
-    <a href="paper1.pdf">PDF</a>
-  </div>
-</div> -->
-
-<!-- <h2>Poster Presentations</h2> -->
-
-<!-- Publication card -->
-<!-- <div style="display: flex; margin-bottom: 30px;">
-  <img src="/assets/pub1.png" style="width: 180px; margin-right: 15px; border-radius: 4px;">
-  <div>
-    <strong>Title</strong><br>
-    A,B,C,D<br>
-    <em>Conference ‘Year</em><br>
-    <a href="paper1.pdf">PDF</a>
-  </div>
-</div>
- -->
