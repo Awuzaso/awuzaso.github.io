@@ -96,6 +96,94 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   </div>
 </div>
 
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Making STEM real: the design of a making-production model for hands-on STEM learning</p>
+    <p class="pubcitation">
+      Okundaye, O., Natarajarathinam, M., Qiu, S., Kuttolamadom, M. A., Chu, S., & Quek, F. (2022).  
+      European Journal of Engineering Education.
+    </p>
+    <a class="pdflink" href="/files/EJEE_2022_OkundayeEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+<h2>Conference Papers</h2>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">3D Printed Kerf Structures</p>
+    <p class="pubcitation">
+      Okundaye-Santos Jr, O. J., Poluri, K., Darnal, A., Muliana, A. H., & Kim, J. (2025).  
+      TEI 2025.
+    </p>
+    <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">PDF</a>
+  </div>
+</div>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">‘All Together Now’: Integrating Horizontal Skills in Career Technical Education Classes</p>
+    <p class="pubcitation">
+      Qiu, S., Okundaye, O., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Li, Q., & Quek, F. (2022).  
+      ASEE 2022.
+    </p>
+    <a class="pdflink" href="/files/ASEE_2022_OkundayeEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+
+
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">How Deep is Your Knowledge? Breadth & Depth of CAD/CAM in M3 CTE Classes</p>
+    <p class="pubcitation">
+      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Chu, S. L. (2021).  
+      ASEE 2021.
+    </p>
+    <a class="pdflink" href="/files/ASEE_2021_OkundayeEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Design and Development of a Horizontal CTE Curriculum</p>
+    <p class="pubcitation">
+      Thakare, K., Okundaye, O. J., Li, Q., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., & Quek, F. (2021).  
+      ASEE 2021.
+    </p>
+    <a class="pdflink" href="/files/ASEE_2021_ThakareEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Making in The Colonias: Motivating STEM Participation</p>
+    <p class="pubcitation">
+      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Berman, A. N. (2020).  
+      ASEE 2020.
+    </p>
+    <a class="pdflink" href="/files/Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Telepresence robotics for hands-on distance instruction</p>
+    <p class="pubcitation">
+      Okundaye, O., Chu, S., Quek, F., Berman, A., Hordemann, G., Powell, L., & Yang, L. (2020).  
+      NordiCHI 2020.
+    </p>
+    <a class="pdflink" href="/files/ASEE_2020_OkundayeEtAl.pdf">PDF</a>
+  </div>
+</div>
 
 <div class="pubcard">
   <div class="pubthumb"></div>
@@ -112,49 +200,29 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 <div class="pubcard">
   <div class="pubthumb"></div>
   <div class="pubinfo">
-    <p class="pubtitle">Making STEM real: the design of a making-production model for hands-on STEM learning</p>
+    <p class="pubtitle">Developing communities of practice through peer mentorship in making through micro-manufacturing model</p>
     <p class="pubcitation">
-      Okundaye, O., Natarajarathinam, M., Qiu, S., Kuttolamadom, M. A., Chu, S., & Quek, F. (2022).  
-      European Journal of Engineering Education.
+      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Chu, S. L., Deuermeyer, E., & Berman, A. N. (2019).  
+      ASEE Annual Conference.
     </p>
-    <a class="pdflink" href="/files/EJEE_2022_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/FabLearn_2019_BermanEtAl.pdf">PDF</a>
   </div>
 </div>
+
 
 <div class="pubcard">
   <div class="pubthumb"></div>
   <div class="pubinfo">
-    <p class="pubtitle">Enabling instrumental interaction through electronics making: Effects on children's storytelling</p>
+    <p class="pubtitle">Proximal and Distal Mentors: Sustaining Making-Expertise in Rural Schools</p>
     <p class="pubcitation">
-      Chu, S. L., Quek, F., Saenz, M., Bhangaonkar, S., & Okundaye, O. (2015).  
-      Interactive Digital Storytelling Conference.
+      Berman, A., Chu, S. L., Quek, F., Okundaye, O., Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
+      FabLearn 2019.
     </p>
+    <a class="pdflink" href="/files/ASEE_2019_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Making as the new colored pencil: translating elementary curricula into maker activities</p>
-    <p class="pubcitation">
-      Angello, G., Chu, S. L., Okundaye, O., Zarei, N., & Quek, F. (2016).  
-      Interaction Design and Children (IDC).
-    </p>
-    <a class="pdflink" href="/files/IDC_2016_Angello_Et_Al.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Telepresence robotics for hands-on distance instruction</p>
-    <p class="pubcitation">
-      Okundaye, O., Chu, S., Quek, F., Berman, A., Hordemann, G., Powell, L., & Yang, L. (2020).  
-      NordiCHI 2020.
-    </p>
-    <a class="pdflink" href="/files/ASEE_2020_OkundayeEtAl.pdf">PDF</a>
-  </div>
-</div>
 
 <div class="pubcard">
   <div class="pubthumb"></div>
@@ -183,24 +251,54 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 <div class="pubcard">
   <div class="pubthumb"></div>
   <div class="pubinfo">
-    <p class="pubtitle">Broadening participation for remote communities: Situated distance telepresence</p>
-    <p class="pubcitation">
-      Okundaye, O., Quek, F., & Chu, S. (2019).  
-      IDC 2019.
-    </p>
-    <a class="pdflink" href="/files/IDC_2019_OkundayeEtAl.pdf">PDF</a>
-  </div>
-</div>
-
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
     <p class="pubtitle">Everybody needs somebody to teach: Embodiment, telecommunication, and telepresence in STEM learning</p>
     <p class="pubcitation">
       Hordemann, G., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Quek, F., & Okundaye, O. J. (2020).  
       ASEE Virtual Annual Conference.
     </p>
     <a class="pdflink" href="/files/ASEE_2020_HordemannEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Making as the new colored pencil: translating elementary curricula into maker activities</p>
+    <p class="pubcitation">
+      Angello, G., Chu, S. L., Okundaye, O., Zarei, N., & Quek, F. (2016).  
+      Interaction Design and Children (IDC).
+    </p>
+    <a class="pdflink" href="/files/IDC_2016_Angello_Et_Al.pdf">PDF</a>
+  </div>
+</div>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Enabling instrumental interaction through electronics making: Effects on children's storytelling</p>
+    <p class="pubcitation">
+      Chu, S. L., Quek, F., Saenz, M., Bhangaonkar, S., & Okundaye, O. (2015).  
+      Interactive Digital Storytelling Conference.
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+<h2>Conference Posters</h2>
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
+    <p class="pubtitle">Broadening participation for remote communities: Situated distance telepresence</p>
+    <p class="pubcitation">
+      Okundaye, O., Quek, F., & Chu, S. (2019).  
+      IDC 2019.
+    </p>
+    <a class="pdflink" href="/files/IDC_2019_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -216,89 +314,17 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   </div>
 </div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">3D Printed Kerf Structures</p>
-    <p class="pubcitation">
-      Okundaye-Santos Jr, O. J., Poluri, K., Darnal, A., Muliana, A. H., & Kim, J. (2025).  
-      TEI 2025.
-    </p>
-    <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Developing communities of practice through peer mentorship in making through micro-manufacturing model</p>
-    <p class="pubcitation">
-      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Chu, S. L., Deuermeyer, E., & Berman, A. N. (2019).  
-      ASEE Annual Conference.
-    </p>
-    <a class="pdflink" href="/files/FabLearn_2019_BermanEtAl.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">‘All Together Now’: Integrating Horizontal Skills in Career Technical Education Classes</p>
-    <p class="pubcitation">
-      Qiu, S., Okundaye, O., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Li, Q., & Quek, F. (2022).  
-      ASEE 2022.
-    </p>
-    <a class="pdflink" href="/files/ASEE_2022_OkundayeEtAl.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Proximal and Distal Mentors: Sustaining Making-Expertise in Rural Schools</p>
-    <p class="pubcitation">
-      Berman, A., Chu, S. L., Quek, F., Okundaye, O., Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
-      FabLearn 2019.
-    </p>
-    <a class="pdflink" href="/files/ASEE_2019_OkundayeEtAl.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Making in The Colonias: Motivating STEM Participation</p>
-    <p class="pubcitation">
-      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Berman, A. N. (2020).  
-      ASEE 2020.
-    </p>
-    <a class="pdflink" href="/files/Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">How Deep is Your Knowledge? Breadth & Depth of CAD/CAM in M3 CTE Classes</p>
-    <p class="pubcitation">
-      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Chu, S. L. (2021).  
-      ASEE 2021.
-    </p>
-    <a class="pdflink" href="/files/ASEE_2021_OkundayeEtAl.pdf">PDF</a>
-  </div>
-</div>
 
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Design and Development of a Horizontal CTE Curriculum</p>
-    <p class="pubcitation">
-      Thakare, K., Okundaye, O. J., Li, Q., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., & Quek, F. (2021).  
-      ASEE 2021.
-    </p>
-    <a class="pdflink" href="/files/ASEE_2021_ThakareEtAl.pdf">PDF</a>
-  </div>
-</div>
+
+
+
+
+
 
 </div> <!-- end publist -->
 
