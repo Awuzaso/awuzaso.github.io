@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-.thumbnail {
-  width: 120px;        /* Set a consistent width */
-  height: 120px;       /* Set a consistent height */
-  object-fit: cover;   /* Ensures images fill the box without distorting */
-  border-radius: 8px;  /* Optional: rounded corners */
-  margin-right: 15px;
-}
+
 
 
 I am currently on the job market for both industry and academic positions. I always appreciate a chat about opportunities or chances to collaborate.<br><br>
@@ -27,6 +21,18 @@ Second, I examine how digital information flows through and across physical medi
 Third, I advance research in engineering education by designing making-based learning environments and computational tools that scaffold conceptual understanding and productive engagement in STEM contexts.<br><br>
 
 Finally, I analyze the implications of generative AI for creative practice—developing methods to both leverage multimodal models (e.g., text-to-image systems) in design workflows and critically assess how these systems reproduce or distort cultural, spatial, and socio-economic representations.<br><br>
+
+<style>
+
+.thumbnail {
+  width: 120px;        /* Set a consistent width */
+  height: 120px;       /* Set a consistent height */
+  object-fit: cover;   /* Ensures images fill the box without distorting */
+  border-radius: 8px;  /* Optional: rounded corners */
+  margin-right: 15px;
+}
+
+</style>
 
 <h1>Work Experience</h1>
 
