@@ -26,7 +26,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 .thumbnail {
   width: 180px;        /* Set a consistent width */
-  height: 180px;       /* Set a consistent height */
+  height: 120px;       /* Set a consistent height */
   object-fit: cover;   /* Ensures images fill the box without distorting */
   border-radius: 8px;  /* Optional: rounded corners */
   margin-right: 15px;
