@@ -87,6 +87,19 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 <div class="pubcard">
   <div class="pubthumb"></div>
   <div class="pubinfo">
+    <p class="pubtitle">Does Horizontal Learning in Career Technical Education with Making and Micromanufacturing Boost Students’ Self-Efficacy?</p>
+    <p class="pubcitation">
+      Qiu, S., Okundaye, O. J., Zhao, J., Quek, F., Natarajarathinam, M., (2025).  
+      International Journal of Innovation and Learning 2025 (In-press).
+    </p>
+    
+  </div>
+</div>
+
+
+<div class="pubcard">
+  <div class="pubthumb"></div>
+  <div class="pubinfo">
     <p class="pubtitle">“Anyone Can Print”: Supporting Collaborations with 3D Printing Services to Empower Broader Participation in Personal Fabrication</p>
     <p class="pubcitation">
       Berman, A., Quek, F., Woodward, R., Okundaye, O., & Kim, J. (2020).  
