@@ -62,7 +62,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/Google_Favicon_2025.svg.png" alt="Google Logo" style="width: 180px; margin-right: 15px;">
+    <img src="/images/Google_Favicon_2025.svg.png" alt="Google Logo" style="height: 120px; margin-right: 15px;">
     <div>
       <strong>Google </strong>, Doctoral Researcher/SWE PhD Intern, 2022 Fall
     </div>
