@@ -221,34 +221,40 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/ASEE_2019_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Developing communities of practice through peer mentorship in making through micro-manufacturing model</p>
     <p class="pubcitation">
       Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Chu, S. L., Deuermeyer, E., & Berman, A. N. (2019).  
       ASEE Annual Conference.
     </p>
-    <a class="pdflink" href="/files/FabLearn_2019_BermanEtAl.pdf">PDF</a>
-  </div>
-</div>
-
-
-<div class="pubcard">
-  <div class="pubthumb"></div>
-  <div class="pubinfo">
-    <p class="pubtitle">Proximal and Distal Mentors: Sustaining Making-Expertise in Rural Schools</p>
-    <p class="pubcitation">
-      Berman, A., Chu, S. L., Quek, F., Okundaye, O., Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
-      FabLearn 2019.
-    </p>
     <a class="pdflink" href="/files/ASEE_2019_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
 
+<div class="pubcard">
+  <div class="pubthumb">
+    <img src="/images/FabLearn_2019_Thumb.png">
+  </div>
+  <div class="pubinfo">
+    <p class="pubtitle">Proximal and Distal Mentors: Sustaining Making-Expertise in Rural Schools</p>
+    <p class="pubcitation">
+      Berman, A., Chu, S. L., Quek, F., Okundaye, O., Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
+      FabLearn 2019.
+    </p>  
+    <a class="pdflink" href="/files/FabLearn_2019_BermanEtAl.pdf">PDF</a>
+  </div>
+</div>
+
+
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">From making to micro-manufacture: Catalyzing STEM participation in rural high schools</p>
     <p class="pubcitation">
@@ -260,7 +266,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/ASEE_2018_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Motivating STEM Participation through a 'Making as Micro-manufacture (M3)' Model</p>
     <p class="pubcitation">
@@ -284,7 +292,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/IDC_2016_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Making as the new colored pencil: translating elementary curricula into maker activities</p>
     <p class="pubcitation">
@@ -296,7 +306,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/IDSC_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Enabling instrumental interaction through electronics making: Effects on children's storytelling</p>
     <p class="pubcitation">
