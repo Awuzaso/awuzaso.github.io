@@ -86,7 +86,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div class="pubcard">
   <div class="pubthumb">
-    <img src="/images/EJEE_2022_Thumb.png">
+    <img src="/images/IJIL_2025_Thumb.png">
   </div>
   <div class="pubinfo">
     <p class="pubtitle">Does Horizontal Learning in Career Technical Education with Making and Micromanufacturing Boost Students’ Self-Efficacy?</p>
