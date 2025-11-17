@@ -280,7 +280,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/ASEE_2020_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Everybody needs somebody to teach: Embodiment, telecommunication, and telepresence in STEM learning</p>
     <p class="pubcitation">
