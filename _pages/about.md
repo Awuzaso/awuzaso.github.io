@@ -178,14 +178,16 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/ASEE_2020_Thumb_2.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Making in The Colonias: Motivating STEM Participation</p>
     <p class="pubcitation">
       Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Berman, A. N. (2020).  
       ASEE 2020.
     </p>
-    <a class="pdflink" href="/files/Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2020_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -199,12 +201,15 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O., Chu, S., Quek, F., Berman, A., Hordemann, G., Powell, L., & Yang, L. (2020).  
       NordiCHI 2020.
     </p>
-    <a class="pdflink" href="/files/ASEE_2020_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
+    
   </div>
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/NORDICHI_2021_2.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">“Anyone Can Print”: Supporting Collaborations with 3D Printing Services to Empower Broader Participation in Personal Fabrication</p>
     <p class="pubcitation">
