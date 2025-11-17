@@ -314,7 +314,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 <h2>Conference Posters</h2>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/IDC_2019_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Broadening participation for remote communities: Situated distance telepresence</p>
     <p class="pubcitation">
@@ -326,7 +328,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/CHI_2017_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Facilitating context switching through tangible artifacts</p>
     <p class="pubcitation">
