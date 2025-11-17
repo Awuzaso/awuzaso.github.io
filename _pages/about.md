@@ -133,7 +133,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/ASEE_2022_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">‘All Together Now’: Integrating Horizontal Skills in Career Technical Education Classes</p>
     <p class="pubcitation">
@@ -148,7 +150,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+      <img src="/images/ASEE_2021_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">How Deep is Your Knowledge? Breadth & Depth of CAD/CAM in M3 CTE Classes</p>
     <p class="pubcitation">
@@ -160,7 +164,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/ASEE_2021_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Design and Development of a Horizontal CTE Curriculum</p>
     <p class="pubcitation">
@@ -184,7 +190,9 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 </div>
 
 <div class="pubcard">
-  <div class="pubthumb"></div>
+  <div class="pubthumb">
+    <img src="/images/NORDICHI_2021_Thumb.png">
+  </div>
   <div class="pubinfo">
     <p class="pubtitle">Telepresence robotics for hands-on distance instruction</p>
     <p class="pubcitation">
