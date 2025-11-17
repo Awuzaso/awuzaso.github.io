@@ -92,7 +92,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Berman, A., Quek, F., Woodward, R., Okundaye, O., & Kim, J. (2020).  
       Proceedings of NordiCHI 2020.
     </p>
-    <a class="pdflink" href="Nordichi_2020_BerEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/Nordichi_2020_BerEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -104,7 +104,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O., Natarajarathinam, M., Qiu, S., Kuttolamadom, M. A., Chu, S., & Quek, F. (2022).  
       European Journal of Engineering Education.
     </p>
-    <a class="pdflink" href="EJEE_2022_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/EJEE_2022_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -127,7 +127,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Angello, G., Chu, S. L., Okundaye, O., Zarei, N., & Quek, F. (2016).  
       Interaction Design and Children (IDC).
     </p>
-    <a class="pdflink" href="IDC_2016_Angello_Et_Al.pdf">PDF</a>
+    <a class="pdflink" href="/files/IDC_2016_Angello_Et_Al.pdf">PDF</a>
   </div>
 </div>
 
@@ -139,7 +139,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O., Chu, S., Quek, F., Berman, A., Hordemann, G., Powell, L., & Yang, L. (2020).  
       NordiCHI 2020.
     </p>
-    <a class="pdflink" href="ASEE_2020_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2020_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -151,7 +151,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O., Chu, S., Quek, F., Berman, A., Natarajarathinam, M., & Kuttolamadom, M. (2018).  
       Creativity and Making in Education Conference.
     </p>
-    <a class="pdflink" href="FabLearnEurope_2018_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/FabLearnEurope_2018_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -163,7 +163,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O. J., Kuttolamadom, M., Natarajarathinam, M., Chu, S. L., & Quek, F. (2018).  
       ASEE Annual Conference.
     </p>
-    <a class="pdflink" href="ASEE_2018_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2018_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -175,7 +175,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O., Quek, F., & Chu, S. (2019).  
       IDC 2019.
     </p>
-    <a class="pdflink" href="IDC_2019_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/IDC_2019_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -187,7 +187,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Hordemann, G., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Quek, F., & Okundaye, O. J. (2020).  
       ASEE Virtual Annual Conference.
     </p>
-    <a class="pdflink" href="ASEE_2020_HordemannEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2020_HordemannEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -199,7 +199,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O., Quek, F., Sargunam, S. P., Suhail, M., & Das, R. (2017).  
       CHI 2017 Extended Abstracts.
     </p>
-    <a class="pdflink" href="CHI_2017_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/CHI_2017_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -211,7 +211,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye-Santos Jr, O. J., Poluri, K., Darnal, A., Muliana, A. H., & Kim, J. (2025).  
       TEI 2025.
     </p>
-    <a class="pdflink" href="TEI_2025_OkundayeEtAl-compressed.pdf">PDF</a>
+    <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">PDF</a>
   </div>
 </div>
 
@@ -223,7 +223,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Chu, S. L., Deuermeyer, E., & Berman, A. N. (2019).  
       ASEE Annual Conference.
     </p>
-    <a class="pdflink" href="FabLearn_2019_BermanEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/FabLearn_2019_BermanEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -235,7 +235,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Qiu, S., Okundaye, O., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Li, Q., & Quek, F. (2022).  
       ASEE 2022.
     </p>
-    <a class="pdflink" href="ASEE_2022_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2022_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -247,7 +247,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Berman, A., Chu, S. L., Quek, F., Okundaye, O., Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
       FabLearn 2019.
     </p>
-    <a class="pdflink" href="ASEE_2019_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2019_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -259,7 +259,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Berman, A. N. (2020).  
       ASEE 2020.
     </p>
-    <a class="pdflink" href="Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -271,7 +271,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Chu, S. L. (2021).  
       ASEE 2021.
     </p>
-    <a class="pdflink" href="ASEE_2021_OkundayeEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2021_OkundayeEtAl.pdf">PDF</a>
   </div>
 </div>
 
@@ -283,7 +283,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       Thakare, K., Okundaye, O. J., Li, Q., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., & Quek, F. (2021).  
       ASEE 2021.
     </p>
-    <a class="pdflink" href="ASEE_2021_ThakareEtAl.pdf">PDF</a>
+    <a class="pdflink" href="/files/ASEE_2021_ThakareEtAl.pdf">PDF</a>
   </div>
 </div>
 
