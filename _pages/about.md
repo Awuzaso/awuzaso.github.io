@@ -91,7 +91,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Does Horizontal Learning in Career Technical Education with Making and Micromanufacturing Boost Students’ Self-Efficacy?</p>
     <p class="pubcitation">
-      Qiu, S., Okundaye, O. J., Zhao, J., Quek, F., Natarajarathinam, M., (2025).  
+      Qiu, S., <b> Okundaye, O. J. </b>, Zhao, J., Quek, F., Natarajarathinam, M., (2025).  
       International Journal of Innovation and Learning 2025 (In-press).
     </p>
     
@@ -105,7 +105,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Making STEM real: the design of a making-production model for hands-on STEM learning</p>
     <p class="pubcitation">
-      Okundaye, O., Natarajarathinam, M., Qiu, S., Kuttolamadom, M. A., Chu, S., & Quek, F. (2022).  
+      <b> Okundaye, O. </b>, Natarajarathinam, M., Qiu, S., Kuttolamadom, M. A., Chu, S., & Quek, F. (2022).  
       European Journal of Engineering Education.
     </p>
     <a class="pdflink" href="/files/EJEE_2022_OkundayeEtAl.pdf">PDF</a>
@@ -122,7 +122,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">3D Printed Kerf Structures</p>
     <p class="pubcitation">
-      Okundaye-Santos Jr, O. J., Poluri, K., Darnal, A., Muliana, A. H., & Kim, J. (2025).  
+      <b> Okundaye-Santos Jr, O. J.</b>, Poluri, K., Darnal, A., Muliana, A. H., & Kim, J. (2025).  
       TEI 2025.
     </p>
     <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">PDF</a>
@@ -139,7 +139,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">‘All Together Now’: Integrating Horizontal Skills in Career Technical Education Classes</p>
     <p class="pubcitation">
-      Qiu, S., Okundaye, O., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Li, Q., & Quek, F. (2022).  
+      Qiu, S., <b> Okundaye, O. </b>, Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Li, Q., & Quek, F. (2022).  
       ASEE 2022.
     </p>
     <a class="pdflink" href="/files/ASEE_2022_OkundayeEtAl.pdf">PDF</a>
@@ -156,7 +156,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">How Deep is Your Knowledge? Breadth & Depth of CAD/CAM in M3 CTE Classes</p>
     <p class="pubcitation">
-      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Chu, S. L. (2021).  
+      <b> Okundaye, O. J. </b>, Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Chu, S. L. (2021).  
       ASEE 2021.
     </p>
     <a class="pdflink" href="/files/ASEE_2021_OkundayeEtAl.pdf">PDF</a>
@@ -170,7 +170,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Design and Development of a Horizontal CTE Curriculum</p>
     <p class="pubcitation">
-      Thakare, K., Okundaye, O. J., Li, Q., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., & Quek, F. (2021).  
+      Thakare, K., <b> Okundaye, O. J. </b>, Li, Q., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., & Quek, F. (2021).  
       ASEE 2021.
     </p>
     <a class="pdflink" href="/files/ASEE_2021_ThakareEtAl.pdf">PDF</a>
@@ -184,7 +184,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Making in The Colonias: Motivating STEM Participation</p>
     <p class="pubcitation">
-      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Berman, A. N. (2020).  
+      <b> Okundaye, O. J. </b>, Natarajarathinam, M., Kuttolamadom, M., Quek, F., & Berman, A. N. (2020).  
       ASEE 2020.
     </p>
     <a class="pdflink" href="/files/ASEE_2020_OkundayeEtAl.pdf">PDF</a>
@@ -198,7 +198,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Telepresence robotics for hands-on distance instruction</p>
     <p class="pubcitation">
-      Okundaye, O., Chu, S., Quek, F., Berman, A., Hordemann, G., Powell, L., & Yang, L. (2020).  
+      <b>Okundaye, O.</b>, Chu, S., Quek, F., Berman, A., Hordemann, G., Powell, L., & Yang, L. (2020).  
       NordiCHI 2020.
     </p>
     <a class="pdflink" href="/files/Nordichi_2020_OkundayeEtAl.pdf">PDF</a>
@@ -213,7 +213,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">“Anyone Can Print”: Supporting Collaborations with 3D Printing Services to Empower Broader Participation in Personal Fabrication</p>
     <p class="pubcitation">
-      Berman, A., Quek, F., Woodward, R., Okundaye, O., & Kim, J. (2020).  
+      Berman, A., Quek, F., Woodward, R., <b> Okundaye, O.</b>, & Kim, J. (2020).  
       Proceedings of NordiCHI 2020.
     </p>
     <a class="pdflink" href="/files/Nordichi_2020_BerEtAl.pdf">PDF</a>
@@ -227,7 +227,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Developing communities of practice through peer mentorship in making through micro-manufacturing model</p>
     <p class="pubcitation">
-      Okundaye, O. J., Natarajarathinam, M., Kuttolamadom, M., Chu, S. L., Deuermeyer, E., & Berman, A. N. (2019).  
+      <b> Okundaye, O. J. </b>, Natarajarathinam, M., Kuttolamadom, M., Chu, S. L., Deuermeyer, E., & Berman, A. N. (2019).  
       ASEE Annual Conference.
     </p>
     <a class="pdflink" href="/files/ASEE_2019_OkundayeEtAl.pdf">PDF</a>
@@ -242,7 +242,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Proximal and Distal Mentors: Sustaining Making-Expertise in Rural Schools</p>
     <p class="pubcitation">
-      Berman, A., Chu, S. L., Quek, F., Okundaye, O., Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
+      Berman, A., Chu, S. L., Quek, F., <b> Okundaye, O. </b>, Yang, L., Deuermeyer, E., ... & Doss, J. (2019).  
       FabLearn 2019.
     </p>  
     <a class="pdflink" href="/files/FabLearn_2019_BermanEtAl.pdf">PDF</a>
@@ -258,7 +258,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">From making to micro-manufacture: Catalyzing STEM participation in rural high schools</p>
     <p class="pubcitation">
-      Okundaye, O., Chu, S., Quek, F., Berman, A., Natarajarathinam, M., & Kuttolamadom, M. (2018).  
+      <b>Okundaye, O.</b>, Chu, S., Quek, F., Berman, A., Natarajarathinam, M., & Kuttolamadom, M. (2018).  
       Creativity and Making in Education Conference.
     </p>
     <a class="pdflink" href="/files/FabLearnEurope_2018_OkundayeEtAl.pdf">PDF</a>
@@ -272,7 +272,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Motivating STEM Participation through a 'Making as Micro-manufacture (M3)' Model</p>
     <p class="pubcitation">
-      Okundaye, O. J., Kuttolamadom, M., Natarajarathinam, M., Chu, S. L., & Quek, F. (2018).  
+      <b>Okundaye, O. J.</b>, Kuttolamadom, M., Natarajarathinam, M., Chu, S. L., & Quek, F. (2018).  
       ASEE Annual Conference.
     </p>
     <a class="pdflink" href="/files/ASEE_2018_OkundayeEtAl.pdf">PDF</a>
@@ -286,7 +286,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Everybody needs somebody to teach: Embodiment, telecommunication, and telepresence in STEM learning</p>
     <p class="pubcitation">
-      Hordemann, G., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Quek, F., & Okundaye, O. J. (2020).  
+      Hordemann, G., Natarajarathinam, M., Chu, S. L., Kuttolamadom, M., Quek, F., & <b>Okundaye, O. J.</b> (2020).  
       ASEE Virtual Annual Conference.
     </p>
     <a class="pdflink" href="/files/ASEE_2020_HordemannEtAl.pdf">PDF</a>
