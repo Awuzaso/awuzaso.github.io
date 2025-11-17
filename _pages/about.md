@@ -165,7 +165,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div class="pubcard">
   <div class="pubthumb">
-    <img src="/images/ASEE_2021_Thumb.png">
+    <img src="/images/ASEE_2020_Thumb.png">
   </div>
   <div class="pubinfo">
     <p class="pubtitle">Design and Development of a Horizontal CTE Curriculum</p>
