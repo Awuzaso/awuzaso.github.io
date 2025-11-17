@@ -105,6 +105,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       European Journal of Engineering Education.
     </p>
     <a class="pdflink" href="/files/EJEE_2022_OkundayeEtAl.pdf">PDF</a>
+    
   </div>
 </div>
 
@@ -119,6 +120,10 @@ Finally, I analyze the implications of generative AI for creative practice—dev
       TEI 2025.
     </p>
     <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">PDF</a>
+    <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">Presentation</a>
+    <a class="pdflink" href="/files/TEI_2025_OkundayeEtAl-compressed.pdf">Video</a>
+    <a class="pdflink" href="https://github.com/Awuzaso/TEI2025-3D-Printed-Kerf-Structures">Github</a>
+
   </div>
 </div>
 
