@@ -300,7 +300,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Making as the new colored pencil: translating elementary curricula into maker activities</p>
     <p class="pubcitation">
-      Angello, G., Chu, S. L., Okundaye, O., Zarei, N., & Quek, F. (2016).  
+      Angello, G., Chu, S. L., <b> Okundaye, O. </b>, Zarei, N., & Quek, F. (2016).  
       Interaction Design and Children (IDC).
     </p>
     <a class="pdflink" href="/files/IDC_2016_Angello_Et_Al.pdf">PDF</a>
@@ -314,7 +314,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Enabling instrumental interaction through electronics making: Effects on children's storytelling</p>
     <p class="pubcitation">
-      Chu, S. L., Quek, F., Saenz, M., Bhangaonkar, S., & Okundaye, O. (2015).  
+      Chu, S. L., Quek, F., Saenz, M., Bhangaonkar, S., & <b> Okundaye, O. </b> (2015).  
       Interactive Digital Storytelling Conference.
     </p>
   </div>
@@ -334,7 +334,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Broadening participation for remote communities: Situated distance telepresence</p>
     <p class="pubcitation">
-      Okundaye, O., Quek, F., & Chu, S. (2019).  
+      <b> Okundaye, O.</b>, Quek, F., & Chu, S. (2019).  
       IDC 2019.
     </p>
     <a class="pdflink" href="/files/IDC_2019_OkundayeEtAl.pdf">PDF</a>
@@ -348,7 +348,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
   <div class="pubinfo">
     <p class="pubtitle">Facilitating context switching through tangible artifacts</p>
     <p class="pubcitation">
-      Okundaye, O., Quek, F., Sargunam, S. P., Suhail, M., & Das, R. (2017).  
+      <b> Okundaye, O. </b>, Quek, F., Sargunam, S. P., Suhail, M., & Das, R. (2017).  
       CHI 2017 Extended Abstracts.
     </p>
     <a class="pdflink" href="/files/CHI_2017_OkundayeEtAl.pdf">PDF</a>
