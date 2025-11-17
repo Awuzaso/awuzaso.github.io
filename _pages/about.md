@@ -86,7 +86,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div class="pubcard">
   <div class="pubthumb">
-    <img src="/images/EJEE_2022_Thumb">
+    <img src="/images/EJEE_2022_Thumb.png">
   </div>
   <div class="pubinfo">
     <p class="pubtitle">Does Horizontal Learning in Career Technical Education with Making and Micromanufacturing Boost Students’ Self-Efficacy?</p>
@@ -100,7 +100,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div class="pubcard">
   <div class="pubthumb">
-    <img src="/images/EJEE_2022_Thumb">
+    <img src="/images/EJEE_2022_Thumb.png">
   </div>
   <div class="pubinfo">
     <p class="pubtitle">Making STEM real: the design of a making-production model for hands-on STEM learning</p>
@@ -117,7 +117,7 @@ Finally, I analyze the implications of generative AI for creative practice—dev
 
 <div class="pubcard">
   <div class="pubthumb">
-    <img src="/images/TEI_2025_Thumb">
+    <img src="/images/TEI_2025_Thumb.png">
   </div>
   <div class="pubinfo">
     <p class="pubtitle">3D Printed Kerf Structures</p>
