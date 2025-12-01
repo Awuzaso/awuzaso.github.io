@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I am an interdisciplinary researcher whose work investigates how computational systems and human experience co-evolve through the lens of embodied interaction. My research examines how technologies are shaped by human perception and capability, and how, in turn, they can extend and transform human skill, reasoning, and creativity. Within this theoretical framework, I lead research programs that span four interrelated domains.<br><br>
+I am an interdisciplinary researcher whose work investigates how computational systems and human experience co-evolve through the lens of embodied interaction. My research examines how technologies are shaped by human perception and capability, and how, in turn, they can extend and transform human skill, reasoning, and creativity. Within this theoretical framework, I have lead research programs that span four interrelated domains.<br><br>
 
 First, I study how computational systems can model and augment human cognitive processes such as attention, perception, and creative ideation.<br><br>
 
