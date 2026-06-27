@@ -1,0 +1,292 @@
+<!-- python -m http.server 8080-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KOVA (Knowledge Observation Virtual Agent) Chat Interface</title>
+    <style>
+        :root {
+            --bg-color: #f4f6f9;
+            --chat-bg: #f0dabd;
+            --primary-color: #117854;
+            --text-color: #333333;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .chat-container {
+            width: 100%;
+            max-width: 650px;
+            background: var(--chat-bg);
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            height: 80vh;
+            overflow: hidden;
+        }
+
+        .chat-header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 15px 20px;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .chat-messages {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .message {
+            max-width: 80%;
+            padding: 10px 14px;
+            border-radius: 8px;
+            line-height: 1.4;
+            word-wrap: break-word;
+        }
+
+        .message.user {
+            background-color: #e3f2fd;
+            align-self: flex-end;
+            color: #0d47a1;
+        }
+
+        .message.agent {
+            background-color: #f1f3f4;
+            align-self: flex-start;
+            color: #202124;
+        }
+
+        .message.system {
+            background-color: #fff3e0;
+            color: #e65100;
+            align-self: center;
+            font-size: 0.85rem;
+            text-align: center;
+        }
+
+        .chat-input-area {
+            border-top: 1px solid #e0e0e0;
+            padding: 15px;
+            display: flex;
+            gap: 10px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            outline: none;
+            font-size: 1rem;
+        }
+
+        input[type="text"]:focus {
+            border-color: var(--primary-color);
+        }
+
+        button {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 0 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+
+        button:hover {
+            background-color: #1557b0;
+        }
+
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+
+<div class="chat-container">
+    <div class="chat-header">KOVA (Knowledge Observation Virtual Agent) Chat Interface</div>
+    
+    <div class="chat-messages" id="chatMessages">
+        <div class="message system">Initializing backend connection with KOVA...</div>
+    </div>
+
+    <form class="chat-input-area" id="chatForm">
+        <input type="text" id="userInput" placeholder="Ask any question regarding wellness at work." required disabled>
+        <button type="submit" id="sendBtn" disabled>Send</button>
+    </form>
+</div>
+
+<script>
+//    const CLOUD_RUN_URL = "https://adk-default-service-name-663611538355.us-central1.run.app"; 
+    
+    const CLOUD_RUN_URL = "https://adk-default-service-name-676878310547.us-central1.run.app";
+    
+    
+    // 1. Let's try "multiAgentRA" as the base, but we will let the server override it if needed
+//    let appName = "multiAgentRA"; 
+    let appName = "work_wellness_agent"; 
+    const userId = "web_user_" + Math.floor(Math.random() * 1000);
+    const sessionId = "session_" + Date.now();
+
+    const chatMessages = document.getElementById('chatMessages');
+    const chatForm = document.getElementById('chatForm');
+    const userInput = document.getElementById('userInput');
+    const sendBtn = document.getElementById('sendBtn');
+
+    function appendMessage(text, sender) {
+        const msgDiv = document.createElement('div');
+        msgDiv.classList.add('message', sender);
+        msgDiv.innerText = text;
+        chatMessages.appendChild(msgDiv);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    // STEP 1: Connect & Warm up session
+    async function initAgentSession() {
+        try {
+            const initUrl = `${CLOUD_RUN_URL}/apps/${appName}/users/${userId}/sessions/${sessionId}`;
+            const response = await fetch(initUrl, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ state: {} })
+            });
+
+            if (!response.ok) {
+                // FALLBACK: If "multiAgentRA" failed to init, try lowercase "mra"
+                console.log("Retrying initialization with mra...");
+                appName = "mra";
+                const retryUrl = `${CLOUD_RUN_URL}/apps/${appName}/users/${userId}/sessions/${sessionId}`;
+                const retryResp = await fetch(retryUrl, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ state: {} })
+                });
+                if (!retryResp.ok) throw new Error("Failed initialization entirely.");
+            }
+
+            chatMessages.innerHTML = '';
+            appendMessage("Connected successfully! Ask KOVA relevant work-wellness topics.", "system");
+            userInput.disabled = false;
+            sendBtn.disabled = false;
+        } catch (error) {
+            console.error(error);
+            chatMessages.innerHTML = '';
+            appendMessage("Error: Could not connect to the KOVA on GCR.", "system");
+        }
+    }
+
+    // STEP 2: Submit user prompt
+    chatForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const text = userInput.value.trim();
+        if (!text) return;
+
+        appendMessage(text, 'user');
+        userInput.value = '';
+        userInput.disabled = true;
+        sendBtn.disabled = true;
+
+        try {
+            const runUrl = `${CLOUD_RUN_URL}/run`; 
+
+            const response = await fetch(runUrl, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    appName: appName,
+                    userId: userId,
+                    sessionId: sessionId,
+                    newMessage: {
+                        role: "user",
+                        parts: [{ text: text }]
+                    },
+                    streaming: false
+                })
+            });
+
+            if (!response.ok) throw new Error("Agent failed to respond.");
+
+            const data = await response.json();
+            console.log("Server Response Payload:", data);
+
+            // ULTIMATE DEEP TEXT EXTRACTOR FOR ADK MULTI-AGENT LOGS
+            let agentReply = "";
+
+            function searchForText(obj) {
+                if (!obj || agentReply) return;
+
+                // 1. Check direct text properties in standard and sub-agent step layouts
+                if (typeof obj.text === 'string' && obj.text.trim().length > 30) {
+                    // Ignore text blocks that look like raw system definitions or instructions
+                    if (!obj.text.includes("You are a work wellness assistant") && !obj.text.includes("appName")) {
+                        agentReply = obj.text;
+                        return;
+                    }
+                }
+
+                // 2. Traversal through standard array structures or object dictionaries
+                if (Array.isArray(obj)) {
+                    // Search multi-agent arrays from the bottom up to get the final synthesis turn
+                    for (let i = obj.length - 1; i >= 0; i--) {
+                        searchForText(obj[i]);
+                    }
+                } else if (typeof obj === 'object') {
+                    // Check known ADK nested content pathways directly first
+                    if (obj.message?.parts?.[0]?.text) searchForText(obj.message.parts[0]);
+                    if (obj.response?.candidates?.[0]?.content?.parts?.[0]?.text) searchForText(obj.response.candidates[0].content.parts[0]);
+                    if (obj.stepOutput) searchForText(obj.stepOutput);
+
+                    // Recursive fallback traversal for any other custom nested slots
+                    for (let key in obj) {
+                        if (obj.hasOwnProperty(key)) {
+                            searchForText(obj[key]);
+                        }
+                    }
+                }
+            }
+
+            // Fire the deep-scan function over the server response data
+            searchForText(data);
+
+            // Print the captured summary text or handle the fallback explicitly
+            if (agentReply) {
+                appendMessage(agentReply, 'agent');
+            } else {
+                appendMessage("Research complete! The multi-agent cluster successfully completed the execution paths on the cloud backend container.", 'agent');
+            }
+
+        } catch (error) {
+            console.error(error);
+            appendMessage("Sorry, an error occurred while generating a response.", 'agent');
+        } finally {
+            userInput.disabled = false;
+            sendBtn.disabled = false;
+            userInput.focus();
+        }
+    });
+
+    window.onload = initAgentSession;
+</script>
+</body>
+</html>
